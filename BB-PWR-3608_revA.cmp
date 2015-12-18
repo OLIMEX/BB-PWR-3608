@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb 0.201506030105+5696~23~ubuntu14.10.1-product   date =  5.06.2015 (пт) 14,06,26 EEST
+
+BeginCmp
+TimeStamp = /55700F73;
+Reference = C1;
+ValeurCmp = 22uF/6.3V;
+IdModule  = kicad_wrk:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557012A8;
+Reference = C3;
+ValeurCmp = 22uF/50V;
+IdModule  = kicad_wrk:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557012DF;
+Reference = C4;
+ValeurCmp = 22uF/6.3V;
+IdModule  = kicad_wrk:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557024F3;
+Reference = D1;
+ValeurCmp = LED_RED_0603;
+IdModule  = OLIMEX_LEDs-FP:LED_0603_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55717A46;
+Reference = D2;
+ValeurCmp = 1N5819/SS14;
+IdModule  = OLIMEX_Diodes-FP:SOD106-R-KA;
+EndCmp
+
+BeginCmp
+TimeStamp = /557185F8;
+Reference = JP1;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = kicad_wrk:JUMP_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /557011F1;
+Reference = L1;
+ValeurCmp = CL22uH/SD75;
+IdModule  = OLIMEX_RLC-FP:SD75;
+EndCmp
+
+BeginCmp
+TimeStamp = /55700F41;
+Reference = P1;
+ValeurCmp = HN1x2;
+IdModule  = OLIMEX_Jumpers-FP:HN1x2_Jumper;
+EndCmp
+
+BeginCmp
+TimeStamp = /5570147E;
+Reference = P2;
+ValeurCmp = HN1x2;
+IdModule  = OLIMEX_Jumpers-FP:HN1x2_Jumper;
+EndCmp
+
+BeginCmp
+TimeStamp = /5570124B;
+Reference = R1;
+ValeurCmp = 39K 1%;
+IdModule  = OLIMEX_RLC-FP:R_0603_DWS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5570126C;
+Reference = R2;
+ValeurCmp = 1.05K 1%;
+IdModule  = OLIMEX_RLC-FP:R_0603_DWS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5570251F;
+Reference = R3;
+ValeurCmp = 2.2K;
+IdModule  = OLIMEX_RLC-FP:R_0603_DWS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5571853E;
+Reference = R4;
+ValeurCmp = 1K 1%;
+IdModule  = OLIMEX_RLC-FP:R_0603_DWS;
+EndCmp
+
+BeginCmp
+TimeStamp = /557184BC;
+Reference = U1;
+ValeurCmp = MT3608;
+IdModule  = OLIMEX_IC-FP:SOT23-6;
+EndCmp
+
+EndListe

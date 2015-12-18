@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"P2,P1";"HN1x2_Jumper";2;"HN1x2";;;
+2;"D1";"LED_0603_KA";1;"LED_RED_0603";;;
+3;"C1";"C_0603";1;"22uF/6.3V";;;
+4;"R1";"R_0603_DWS";1;"39K 1%";;;
+5;"R2";"R_0603_DWS";1;"1.05K 1%";;;
+6;"R3";"R_0603_DWS";1;"2.2K";;;
+7;"Ref**,Ref**,Ref**,Ref**";"via_09_07";4;"Val**";;;
+8;"";"LOGO_OLIMEX_80";1;"";;;
+9;"D2";"SOD106-R-KA";1;"1N5819/SS14";;;
+10;"JP1";"JUMP_SMD";1;"Jumper_NO_Small";;;
+11;"R4";"R_0603_DWS";1;"1K 1%";;;
+12;"U1";"SOT23-6";1;"MT3608";;;
+13;"C3";"R_0805";1;"22uF/50V";;;
+14;"L1";"SD75";1;"CL22uH/SD75";;;
